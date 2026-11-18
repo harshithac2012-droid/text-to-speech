@@ -1,0 +1,7 @@
+streamlit>=1.30
+num2words>=0.5.13
+python-dotenv>=1.0
+# Add after you get API access (check the exact package name in Gradium's docs):
+# gradium
+# Optional local model for offline testing:
+# ptts
